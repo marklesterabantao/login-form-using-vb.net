@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\login\login\bin\Debug\login.exe.config
+C:\Users\user\source\repos\login\login\bin\Debug\login.exe
+C:\Users\user\source\repos\login\login\bin\Debug\login.pdb
+C:\Users\user\source\repos\login\login\bin\Debug\login.xml
+C:\Users\user\source\repos\login\login\obj\Debug\login.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\login\login\obj\Debug\login.vbproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\login\login\obj\Debug\login.Form1.resources
+C:\Users\user\source\repos\login\login\obj\Debug\login.Resources.resources
+C:\Users\user\source\repos\login\login\obj\Debug\login.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\login\login\obj\Debug\login.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\login\login\obj\Debug\login.exe
+C:\Users\user\source\repos\login\login\obj\Debug\login.xml
+C:\Users\user\source\repos\login\login\obj\Debug\login.pdb
+C:\Users\user\source\repos\login\login\obj\Debug\login.Form2.resources
